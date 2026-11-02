@@ -1,167 +1,83 @@
-\# Hi, I'm Wajio Tausif 👋\
-\
-\### Full-Stack Developer | Laravel | React | Next.js\
-\
-I'm a Full-Stack Developer from Bangladesh with experience building and maintaining web applications and business software. I work across frontend development, backend logic, REST APIs, database design, and administration panels.\
-\
-I enjoy turning ideas and business requirements into practical software solutions, from complete client websites to POS, inventory, marketplace, and ERP systems.\
-\
-\---\
-\
-\### 🧑‍💻 About Me\
-\
-\- 💼 Software Developer at \*\*DataDSS Ltd.\*\*\
-\- 🌱 Experienced in Laravel, PHP, React, Next.js, and JavaScript.\
-\- 🏗️ Independently developed and deployed complete web applications for clients.\
-\- 🔧 Contributed to the development and maintenance of POS and ERP business software.\
-\- 🤝 Experienced in both independent development and team projects.\
-\- 📍 Based in Bangladesh.\
-\
-\---\
-\
-\### 🛠️ Technical Skills\
-\
-\*\*Frontend\*\*\
-\- HTML, CSS, Tailwind CSS, JavaScript\
-\- React, Next.js\
-\
-\*\*Backend\*\*\
-\- PHP, Laravel\
-\- REST APIs, Authentication, Role-Based Access Control\
-\
-\*\*Programming Languages\*\*\
-\- C, C++, Python, Java\
-\
-\*\*Databases\*\*\
-\- MySQL, PostgreSQL, SQL\
-\
-\*\*Tools & Platforms\*\*\
-\- Git, GitHub, Postman\
-\- cPanel, Vercel\
-\
-\---\
-\
-\### 🚀 Featured Projects\
-\
-\#### 1. Dealer Management System (LightPOS)\
-[Live Project]\([https://lightpos.datadssltd.com/](https://lightpos.datadssltd.com/))\
-\
-\*Solo Project\*\
-\
-\- Independently developed a POS and dealer management application.\
-\- Implemented sales, customer, product, due-management, and reporting workflows.\
-\- Simplified sales operations with automatic customer and product handling.\
-\- Managed frontend, backend, database, and deployment.\
-\
-\#### 2. RarLift\
-[Live Website]\([https://rarlift.com.bd/](https://rarlift.com.bd/))\
-\
-\*Solo Client Project\*\
-\
-\- Independently developed a complete client web application.\
-\- Built the frontend, Laravel/PHP backend, database integration, APIs, and administration panel.\
-\- Implemented authentication and dynamic content management.\
-\- Managed application deployment.\
-\
-\#### 3. Janata Ship Builders\
-[Live Website]\([https://janatashipbuilders.com/](https://janatashipbuilders.com/))\
-\
-\*Solo Client Project\*\
-\
-\- Independently developed and deployed a responsive client website.\
-\- Implemented frontend interfaces, Laravel backend functionality, database integration, contact forms, APIs, and administration features.\
-\- Managed the complete development and deployment process.\
-\
-\#### 4. Mashiat International\
-[Live Website]\([https://mashiatinternational.com/](https://mashiatinternational.com/))\
-\
-\*Solo Client Project\*\
-\
-\- Independently developed the website and its administration functionality.\
-\- Worked on frontend development, backend functionality, database integration, and dynamic content management.\
-\- Managed deployment using cPanel.\
-\
-\#### 5. DataDSS POS System\
-\
-\*Company Project — Development Contribution\*\
-\
-\- Contribute to the development and maintenance of DataDSS's POS application.\
-\- Work on sales, purchases, invoices, inventory, products, dashboards, and reporting features.\
-\- Improve existing business logic, troubleshoot bugs, and implement feature updates.\
-\- Work with Laravel, PHP, MySQL, JavaScript, and related frontend technologies.\
-\
-\#### 6. DataDSS ERP System\
-[Project Website]\([https://citizen.datadss.com/](https://citizen.datadss.com/))\
-\
-\*Company Project — Development Contribution\*\
-\
-\- Contribute to the development and maintenance of DataDSS's ERP application.\
-\- Test existing modules, investigate application issues, and fix bugs.\
-\- Improve existing functionality and contribute to new modules and features.\
-\- Work on database-related issues, business workflows, and interface improvements.\
-\
-\#### 7. Matendes Marketplace\
-[GitHub Repository]\([https://github.com/twajio-blip/matendes-marketplace](https://github.com/twajio-blip/matendes-marketplace))\
-\
-\*Team Project\*\
-\
-\- Contributed to a team-based marketplace project.\
-\- Converted Laravel Blade pages into React interfaces.\
-\- Developed reusable components for admin, customer, seller, and delivery panels.\
-\- Worked on API integration, backend changes, database queries, and bug fixes.\
-\
-\#### 8. AI Resume & Job Recruiter\
-[Live Demo]\([https://ai-resume-job-recruiter.vercel.app/](https://ai-resume-job-recruiter.vercel.app/))\
-\
-\*University Thesis / Team Project\*\
-\
-\- Contributed to a university team project.\
-\- Participated in testing, bug fixing, and feature improvements.\
-\- Worked with functionality related to resume creation, job applications, employer hiring, meetings, and task management.\
-\- Contributed to improvements in the platform's AI-assisted functionality.\
-\
-\---\
-\
-\### 💼 Professional Experience\
-\
-\*\*DataDSS Ltd. — Software Developer\*\*\
-\
-\*July 2026 – Present\*\
-\
-\- Develop and maintain web applications and business management software.\
-\- Work with Laravel, PHP, React, Next.js, JavaScript, and MySQL.\
-\- Contribute to POS, inventory, invoicing, reporting, marketplace, and ERP functionality.\
-\- Troubleshoot application issues and contribute new features and improvements.\
-\
-\*\*DataDSS Ltd. — Web Development Intern\*\*\
-\
-\*January 2026 – June 2026\*\
-\
-\- Assisted with web application development and maintenance.\
-\- Worked with frontend technologies, Laravel, and MySQL.\
-\- Contributed to application improvements and troubleshooting.\
-\
-\---\
-\
-\### 🎓 Education\
-\
-\*\*BSc in Computer Science and Engineering\*\*  \
-Northern University — 2026\
-\
-\---\
-\
-\### 🌐 Languages\
-\
-\- Bangla — Native\
-\- English — Conversational\
-\
-\---\
-\
-\### 📫 Connect With Me\
-\
-\- \*\*GitHub:\*\* [@twajio-blip]\([https://github.com/twajio-blip](https://github.com/twajio-blip))\
-\- \*\*Email:\*\* [[twajio@gmail.com](mailto:twajio@gmail.com)]\([mailto:twajio@gmail.com](mailto:twajio@gmail.com))\
-\
-\---\
-\
-\*Building practical software solutions, one project at a time.\*\
+# Hi, I'm Wajio Tausif 👋
+
+**Full-Stack Developer | Laravel | React | Next.js**
+
+I build web applications and software solutions, working across frontend development, backend logic, APIs, databases, and admin panels.
+
+## 👨‍💻 About Me
+
+- Software Developer at **DataDSS Ltd.**
+- Experienced in developing and maintaining web applications.
+- Work with Laravel, PHP, React, Next.js, and database-driven systems.
+- Interested in building practical software solutions and improving my development skills.
+
+## 🛠️ Technical Skills
+
+- **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React, Next.js
+- **Backend:** PHP, Laravel
+- **Databases:** MySQL, PostgreSQL
+- **Programming Languages:** C, C++, Python, Java
+- **Tools:** Git, GitHub, Postman, cPanel, Vercel
+
+## 🚀 Featured Projects
+
+### 1. LightPOS – Dealer Management System
+- Developed independently at DataDSS Ltd.
+- Includes sales management, customer and product handling, reports, and due management.
+- [Live Project](https://lightpos.datadssltd.com/)
+
+### 2. RarLift
+- Independently developed as a client project at DataDSS Ltd.
+- Worked across frontend, backend, database, admin panel, and deployment.
+- [Live Project](https://rarlift.com.bd/)
+
+### 3. Janata Ship Builders
+- Independently developed as a client project at DataDSS Ltd.
+- Worked across frontend, backend, database, admin panel, and deployment.
+- [Live Project](https://janatashipbuilders.com/)
+
+### 4. Mashiat International
+- Independently developed the frontend and admin panel for a client project at DataDSS Ltd.
+- [Live Project](https://mashiatinternational.com/)
+
+### 5. DataDSS POS System
+- Contribute to the development and maintenance of an existing POS system.
+- Work on sales, purchases, invoices, inventory, reports, dashboards, and bug fixes.
+
+### 6. DataDSS ERP System
+- Contribute to an existing ERP system.
+- Work on testing, bug fixes, database-related issues, improvements, and new modules.
+- [Live Project](https://citizen.datadss.com/)
+
+### 7. Matendes Marketplace
+- Contributed as part of a two-person development team.
+- Worked on converting Blade pages to React, reusable components, API integration, backend changes, database queries, and bug fixes.
+- **Repository:** Private
+
+### 8. AI Resume & Job Recruiter
+- University thesis/team project.
+- Contributed through testing, bug fixes, and feature improvements.
+- [Live Project](https://ai-resume-job-recruiter.vercel.app/)
+
+## 💼 Professional Experience
+
+**Software Developer — DataDSS Ltd.**  
+July 2026 – Present
+
+**Web Development Intern — DataDSS Ltd.**  
+January 2026 – June 2026
+
+## 🎓 Education
+
+**B.Sc. in Computer Science and Engineering (CSE)**  
+Northern University — 2026
+
+## 🌐 Languages
+
+- Bangla — Native
+- English — Conversational
+
+## 📫 Connect With Me
+
+- **GitHub:** [twajio-blip](https://github.com/twajio-blip)
+- **Email:** [twajio@gmail.com](mailto:twajio@gmail.com)
