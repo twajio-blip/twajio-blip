@@ -10,10 +10,10 @@ I enjoy turning ideas and business requirements into practical software solution
 
 ### 🧑‍💻 About Me
 
-- 💼 Working as a Software Developer at **DataDSS Ltd.**
+- 💼 Software Developer at **DataDSS Ltd.**
 - 🌱 Experienced in Laravel, PHP, React, Next.js, and JavaScript.
-- 🏗️ Developed complete web applications for clients independently.
-- 🔧 Worked on POS, inventory, sales, reporting, marketplace, and ERP solutions.
+- 🏗️ Independently developed and deployed complete web applications for clients.
+- 🔧 Contributed to the development and maintenance of POS and ERP business software.
 - 🤝 Experienced in both independent development and team projects.
 - 📍 Based in Bangladesh.
 
@@ -46,46 +46,79 @@ I enjoy turning ideas and business requirements into practical software solution
 #### 1. Dealer Management System (LightPOS)
 [Live Project](https://lightpos.datadssltd.com/)
 
+*Solo Project*
+
 - Independently developed a POS and dealer management application.
-- Worked on sales, customers, products, due management, and reporting.
-- Implemented workflows that simplify customer and product handling during sales.
+- Implemented sales, customer, product, due-management, and reporting workflows.
+- Simplified sales operations with automatic customer and product handling.
 - Managed frontend, backend, database, and deployment.
 
 #### 2. RarLift
 [Live Website](https://rarlift.com.bd/)
 
+*Solo Client Project*
+
 - Independently developed a complete client web application.
-- Built the frontend, Laravel/PHP backend, database integration, APIs, and admin panel.
+- Built the frontend, Laravel/PHP backend, database integration, APIs, and administration panel.
 - Implemented authentication and dynamic content management.
-- Managed deployment.
+- Managed application deployment.
 
 #### 3. Janata Ship Builders
 [Live Website](https://janatashipbuilders.com/)
 
-- Independently developed and deployed a client website.
-- Implemented responsive frontend interfaces, backend functionality, database integration, contact forms, and admin features.
+*Solo Client Project*
+
+- Independently developed and deployed a responsive client website.
+- Implemented frontend interfaces, Laravel backend functionality, database integration, contact forms, APIs, and administration features.
+- Managed the complete development and deployment process.
 
 #### 4. Mashiat International
 [Live Website](https://mashiatinternational.com/)
 
+*Solo Client Project*
+
 - Independently developed the website and its administration functionality.
-- Worked on frontend, backend, database integration, and dynamic content management.
+- Worked on frontend development, backend functionality, database integration, and dynamic content management.
 - Managed deployment using cPanel.
 
-#### 5. Matendes Marketplace
+#### 5. DataDSS POS System
+
+*Company Project — Development Contribution*
+
+- Contribute to the development and maintenance of DataDSS's POS application.
+- Work on sales, purchases, invoices, inventory, products, dashboards, and reporting features.
+- Improve existing business logic, troubleshoot bugs, and implement feature updates.
+- Work with Laravel, PHP, MySQL, JavaScript, and related frontend technologies.
+
+#### 6. DataDSS ERP System
+[Project Website](https://citizen.datadss.com/)
+
+*Company Project — Development Contribution*
+
+- Contribute to the development and maintenance of DataDSS's ERP application.
+- Test existing modules, investigate application issues, and fix bugs.
+- Improve existing functionality and contribute to new modules and features.
+- Work on database-related issues, business workflows, and interface improvements.
+
+#### 7. Matendes Marketplace
 [GitHub Repository](https://github.com/twajio-blip/matendes-marketplace)
+
+*Team Project*
 
 - Contributed to a team-based marketplace project.
 - Converted Laravel Blade pages into React interfaces.
 - Developed reusable components for admin, customer, seller, and delivery panels.
 - Worked on API integration, backend changes, database queries, and bug fixes.
 
-#### 6. AI Resume & Job Recruiter
+#### 8. AI Resume & Job Recruiter
 [Live Demo](https://ai-resume-job-recruiter.vercel.app/)
+
+*University Thesis / Team Project*
 
 - Contributed to a university team project.
 - Participated in testing, bug fixing, and feature improvements.
 - Worked with functionality related to resume creation, job applications, employer hiring, meetings, and task management.
+- Contributed to improvements in the platform's AI-assisted functionality.
 
 ---
 
@@ -96,9 +129,9 @@ I enjoy turning ideas and business requirements into practical software solution
 *July 2026 – Present*
 
 - Develop and maintain web applications and business management software.
-- Work on Laravel, PHP, React, Next.js, JavaScript, and MySQL.
-- Improve POS, inventory, invoicing, reporting, marketplace, and ERP functionality.
-- Troubleshoot application issues and contribute new features.
+- Work with Laravel, PHP, React, Next.js, JavaScript, and MySQL.
+- Contribute to POS, inventory, invoicing, reporting, marketplace, and ERP functionality.
+- Troubleshoot application issues and contribute new features and improvements.
 
 **DataDSS Ltd. — Web Development Intern**
 
@@ -117,10 +150,17 @@ Northern University — 2026
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Languages
 
-- GitHub: [@twajio-blip](https://github.com/twajio-blip)
-- Email: [twajio@gmail.com](mailto:twajio@gmail.com)
+- Bangla — Native
+- English — Conversational
+
+---
+
+### 📫 Connect With Me
+
+- **GitHub:** [@twajio-blip](https://github.com/twajio-blip)
+- **Email:** [twajio@gmail.com](mailto:twajio@gmail.com)
 
 ---
 
