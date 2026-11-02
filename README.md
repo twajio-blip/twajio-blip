@@ -44,7 +44,7 @@ I enjoy turning ideas and business requirements into practical software solution
 \### 🚀 Featured Projects\
 \
 \#### 1. Dealer Management System (LightPOS)\
-[Live Project]\(https\://lightpos.datadssltd.com/)\
+[Live Project]\([https://lightpos.datadssltd.com/](https://lightpos.datadssltd.com/))\
 \
 \*Solo Project\*\
 \
@@ -54,7 +54,7 @@ I enjoy turning ideas and business requirements into practical software solution
 \- Managed frontend, backend, database, and deployment.\
 \
 \#### 2. RarLift\
-[Live Website]\(https\://rarlift.com.bd/)\
+[Live Website]\([https://rarlift.com.bd/](https://rarlift.com.bd/))\
 \
 \*Solo Client Project\*\
 \
@@ -64,7 +64,7 @@ I enjoy turning ideas and business requirements into practical software solution
 \- Managed application deployment.\
 \
 \#### 3. Janata Ship Builders\
-[Live Website]\(https\://janatashipbuilders.com/)\
+[Live Website]\([https://janatashipbuilders.com/](https://janatashipbuilders.com/))\
 \
 \*Solo Client Project\*\
 \
@@ -73,7 +73,7 @@ I enjoy turning ideas and business requirements into practical software solution
 \- Managed the complete development and deployment process.\
 \
 \#### 4. Mashiat International\
-[Live Website]\(https\://mashiatinternational.com/)\
+[Live Website]\([https://mashiatinternational.com/](https://mashiatinternational.com/))\
 \
 \*Solo Client Project\*\
 \
@@ -91,7 +91,7 @@ I enjoy turning ideas and business requirements into practical software solution
 \- Work with Laravel, PHP, MySQL, JavaScript, and related frontend technologies.\
 \
 \#### 6. DataDSS ERP System\
-[Project Website]\(https\://citizen.datadss.com/)\
+[Project Website]\([https://citizen.datadss.com/](https://citizen.datadss.com/))\
 \
 \*Company Project — Development Contribution\*\
 \
@@ -101,7 +101,7 @@ I enjoy turning ideas and business requirements into practical software solution
 \- Work on database-related issues, business workflows, and interface improvements.\
 \
 \#### 7. Matendes Marketplace\
-[GitHub Repository]\(https\://github.com/twajio-blip/matendes-marketplace)\
+[GitHub Repository]\([https://github.com/twajio-blip/matendes-marketplace](https://github.com/twajio-blip/matendes-marketplace))\
 \
 \*Team Project\*\
 \
@@ -111,7 +111,7 @@ I enjoy turning ideas and business requirements into practical software solution
 \- Worked on API integration, backend changes, database queries, and bug fixes.\
 \
 \#### 8. AI Resume & Job Recruiter\
-[Live Demo]\(https\://ai-resume-job-recruiter.vercel.app/)\
+[Live Demo]\([https://ai-resume-job-recruiter.vercel.app/](https://ai-resume-job-recruiter.vercel.app/))\
 \
 \*University Thesis / Team Project\*\
 \
@@ -159,8 +159,8 @@ Northern University — 2026\
 \
 \### 📫 Connect With Me\
 \
-\- \*\*GitHub:\*\* [@twajio-blip]\(https\://github.com/twajio-blip)\
-\- \*\*Email:\*\* [twajio@gmail.com]\(mailto:twajio@gmail.com)\
+\- \*\*GitHub:\*\* [@twajio-blip]\([https://github.com/twajio-blip](https://github.com/twajio-blip))\
+\- \*\*Email:\*\* [[twajio@gmail.com](mailto:twajio@gmail.com)]\([mailto:twajio@gmail.com](mailto:twajio@gmail.com))\
 \
 \---\
 \
