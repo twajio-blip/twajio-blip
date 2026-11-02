@@ -1,15 +1,15 @@
 # Hi, I'm Wajio Tausif
 
-Full-Stack Developer | Laravel | React | Next.js
+**Full-Stack Developer | Laravel | React | Next.js**
 
-I build web applications and software solutions, working across
-frontend development, backend logic, APIs, databases, and admin panels.
+I build web applications and software solutions, working across frontend development, backend logic, APIs, databases, and admin panels.
 
 ### Technologies
 
 - **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React, Next.js
 - **Backend:** PHP, Laravel
-- **Database:** MySQL
+- **Programming Languages:** C, C++, Python, Java
+- **Databases:** MySQL, PostgreSQL
 - **Tools:** Git, GitHub
 
 ### Featured Projects
